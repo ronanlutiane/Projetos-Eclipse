@@ -1,8 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Ronan Lutiane\OneDrive\Promove\2º Periodo\Algoritmo e programação\Projetos Eclipse\.metadata\.plugins\org.eclipse.jdt.core
-3866843113.index
-3663887951.index
-811147442.index
-1325212576.index
-240880419.index
-765942164.index
-1213915457.index
